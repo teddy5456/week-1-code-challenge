@@ -1,0 +1,17 @@
+WEEK ONE CODE CHALLENGE
+
+TEDDY WAMBUA
+0740862046
+
+The code is written in javascript.
+
+This code is comprised of three challenges.
+
+Challenge 1
+The first challenge prompts the user to enter a number between 0-100 and assigns a grade based on where the entered marks lie on a predefined chart. The result is displayed in the console.
+
+Challenge 2
+The second challenge assigns a certain number of points based on how fast the user was driving over the speed limit. If the points exceed 12, the program will display a message stating that the user's license is suspended. Otherwise, the program will display the number of points the user has.
+
+Challenge 3
+The third challenge calculates net pay by taking the user's gross pay, non-cash benefits, allowable deductions, personal relief, insurance relief, PAYE tax, and NHIF contributions into account. The user is prompted to enter the required values, and if any value is less than zero, an alert is displayed. The taxable income is calculated first, then the PAYE tax and NHIF contributions are calculated based on the taxable income and gross pay, respectively. Finally, the net pay is calculated by subtracting the PAYE tax and NHIF contributions from the gross pay.
